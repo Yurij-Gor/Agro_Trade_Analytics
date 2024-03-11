@@ -1,0 +1,25 @@
+# Python development environment files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories (venv)
+.venv/
+venv/
+ENV/
+
+# PyCharm IDE files
+.idea/
+
+# Operating system files
+Thumbs.db  # Windows-specific files
+
+# Environment files that may contain sensitive data
+.env
+
+# Log files
+*.log
+
+# Other files and directories created during development
+db.sqlite3
+*.pyc
