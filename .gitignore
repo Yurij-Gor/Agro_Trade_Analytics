@@ -8,7 +8,7 @@ __pycache__/
 venv/
 ENV/
 
-Temp_code/
+/Temp_code/
 
 # PyCharm IDE files
 .idea/
